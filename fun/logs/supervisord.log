@@ -1,0 +1,193 @@
+2018-04-22 08:35:35,294 CRIT Supervisor running as root (no user in config file)
+2018-04-22 08:35:35,295 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2018-04-22 08:35:35,313 INFO RPC interface 'supervisor' initialized
+2018-04-22 08:35:35,314 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-04-22 08:35:35,315 INFO supervisord started with pid 1
+2018-04-22 08:35:36,322 INFO spawned: 'nginx' with pid 7
+2018-04-22 08:35:36,331 INFO spawned: 'php-fpm' with pid 8
+2018-04-22 08:35:36,338 INFO spawned: 'hhvm-fastcgi' with pid 9
+2018-04-22 08:35:37,408 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 08:35:37,410 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 08:35:37,411 INFO success: hhvm-fastcgi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 08:58:08,367 WARN received SIGTERM indicating exit request
+2018-04-22 08:58:08,370 INFO waiting for nginx, php-fpm, hhvm-fastcgi to die
+2018-04-22 08:58:08,392 INFO stopped: hhvm-fastcgi (terminated by SIGTERM)
+2018-04-22 08:58:08,415 INFO stopped: php-fpm (exit status 0)
+2018-04-22 08:58:08,509 INFO stopped: nginx (exit status 0)
+2018-04-22 08:58:10,779 CRIT Supervisor running as root (no user in config file)
+2018-04-22 08:58:10,780 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2018-04-22 08:58:10,854 INFO RPC interface 'supervisor' initialized
+2018-04-22 08:58:10,855 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-04-22 08:58:10,858 INFO supervisord started with pid 1
+2018-04-22 08:58:11,865 INFO spawned: 'nginx' with pid 7
+2018-04-22 08:58:11,884 INFO spawned: 'php-fpm' with pid 8
+2018-04-22 08:58:11,927 INFO spawned: 'hhvm-fastcgi' with pid 10
+2018-04-22 08:58:13,182 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 08:58:13,191 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 08:58:13,193 INFO success: hhvm-fastcgi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 09:02:34,463 WARN received SIGTERM indicating exit request
+2018-04-22 09:02:34,465 INFO waiting for nginx, php-fpm, hhvm-fastcgi to die
+2018-04-22 09:02:34,485 INFO stopped: hhvm-fastcgi (terminated by SIGTERM)
+2018-04-22 09:02:34,502 INFO stopped: php-fpm (exit status 0)
+2018-04-22 09:02:34,607 INFO stopped: nginx (exit status 0)
+2018-04-22 09:04:15,860 CRIT Supervisor running as root (no user in config file)
+2018-04-22 09:04:15,862 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2018-04-22 09:04:15,925 INFO RPC interface 'supervisor' initialized
+2018-04-22 09:04:15,926 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-04-22 09:04:15,928 INFO supervisord started with pid 1
+2018-04-22 09:04:16,937 INFO spawned: 'nginx' with pid 8
+2018-04-22 09:04:16,944 INFO spawned: 'php-fpm' with pid 9
+2018-04-22 09:04:16,952 INFO spawned: 'hhvm-fastcgi' with pid 10
+2018-04-22 09:04:18,026 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 09:04:18,027 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 09:04:18,029 INFO success: hhvm-fastcgi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 09:08:25,843 WARN received SIGTERM indicating exit request
+2018-04-22 09:08:25,846 INFO waiting for nginx, php-fpm, hhvm-fastcgi to die
+2018-04-22 09:08:25,865 INFO stopped: hhvm-fastcgi (terminated by SIGTERM)
+2018-04-22 09:08:25,879 INFO stopped: php-fpm (exit status 0)
+2018-04-22 09:08:25,956 INFO stopped: nginx (exit status 0)
+2018-04-22 09:09:46,913 CRIT Supervisor running as root (no user in config file)
+2018-04-22 09:09:46,915 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2018-04-22 09:09:46,979 INFO RPC interface 'supervisor' initialized
+2018-04-22 09:09:46,980 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-04-22 09:09:46,982 INFO supervisord started with pid 1
+2018-04-22 09:09:47,992 INFO spawned: 'nginx' with pid 8
+2018-04-22 09:09:48,000 INFO spawned: 'php-fpm' with pid 9
+2018-04-22 09:09:48,008 INFO spawned: 'hhvm-fastcgi' with pid 10
+2018-04-22 09:09:49,077 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 09:09:49,078 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 09:09:49,080 INFO success: hhvm-fastcgi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 09:10:58,144 WARN received SIGTERM indicating exit request
+2018-04-22 09:10:58,149 INFO waiting for nginx, php-fpm, hhvm-fastcgi to die
+2018-04-22 09:10:58,183 INFO stopped: hhvm-fastcgi (terminated by SIGTERM)
+2018-04-22 09:10:58,201 INFO stopped: php-fpm (exit status 0)
+2018-04-22 09:10:58,287 INFO stopped: nginx (exit status 0)
+2018-04-22 09:20:27,483 CRIT Supervisor running as root (no user in config file)
+2018-04-22 09:20:27,485 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2018-04-22 09:20:27,532 INFO RPC interface 'supervisor' initialized
+2018-04-22 09:20:27,533 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-04-22 09:20:27,534 INFO supervisord started with pid 1
+2018-04-22 09:20:28,544 INFO spawned: 'nginx' with pid 7
+2018-04-22 09:20:28,562 INFO spawned: 'php-fpm' with pid 8
+2018-04-22 09:20:28,569 INFO spawned: 'hhvm-fastcgi' with pid 9
+2018-04-22 09:20:29,667 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 09:20:29,669 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 09:20:29,670 INFO success: hhvm-fastcgi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 09:59:52,602 WARN received SIGTERM indicating exit request
+2018-04-22 09:59:52,605 INFO waiting for nginx, php-fpm, hhvm-fastcgi to die
+2018-04-22 09:59:52,635 INFO stopped: hhvm-fastcgi (terminated by SIGTERM)
+2018-04-22 09:59:52,660 INFO stopped: php-fpm (exit status 0)
+2018-04-22 09:59:52,748 INFO stopped: nginx (exit status 0)
+2018-04-22 09:59:58,509 CRIT Supervisor running as root (no user in config file)
+2018-04-22 09:59:58,514 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2018-04-22 09:59:58,602 INFO RPC interface 'supervisor' initialized
+2018-04-22 09:59:58,605 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-04-22 09:59:58,607 INFO supervisord started with pid 1
+2018-04-22 09:59:59,623 INFO spawned: 'nginx' with pid 7
+2018-04-22 09:59:59,631 INFO spawned: 'php-fpm' with pid 8
+2018-04-22 09:59:59,642 INFO spawned: 'hhvm-fastcgi' with pid 9
+2018-04-22 10:00:00,711 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 10:00:00,713 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 10:00:00,714 INFO success: hhvm-fastcgi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 10:04:44,558 WARN received SIGTERM indicating exit request
+2018-04-22 10:04:44,561 INFO waiting for nginx, php-fpm, hhvm-fastcgi to die
+2018-04-22 10:04:44,597 INFO stopped: hhvm-fastcgi (terminated by SIGTERM)
+2018-04-22 10:04:44,620 INFO stopped: php-fpm (exit status 0)
+2018-04-22 10:04:44,708 INFO stopped: nginx (exit status 0)
+2018-04-22 10:05:23,130 CRIT Supervisor running as root (no user in config file)
+2018-04-22 10:05:23,133 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2018-04-22 10:05:23,172 INFO RPC interface 'supervisor' initialized
+2018-04-22 10:05:23,174 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-04-22 10:05:23,176 INFO supervisord started with pid 1
+2018-04-22 10:05:24,184 INFO spawned: 'nginx' with pid 7
+2018-04-22 10:05:24,192 INFO spawned: 'php-fpm' with pid 8
+2018-04-22 10:05:24,203 INFO spawned: 'hhvm-fastcgi' with pid 9
+2018-04-22 10:05:24,229 INFO exited: nginx (exit status 1; not expected)
+2018-04-22 10:05:25,281 INFO spawned: 'nginx' with pid 14
+2018-04-22 10:05:25,287 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 10:05:25,288 INFO success: hhvm-fastcgi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 10:05:25,315 INFO exited: nginx (exit status 1; not expected)
+2018-04-22 10:05:27,326 INFO spawned: 'nginx' with pid 15
+2018-04-22 10:05:27,346 INFO exited: nginx (exit status 1; not expected)
+2018-04-22 10:05:30,364 INFO spawned: 'nginx' with pid 16
+2018-04-22 10:05:30,382 INFO exited: nginx (exit status 1; not expected)
+2018-04-22 10:05:30,384 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2018-04-22 10:06:08,319 WARN received SIGTERM indicating exit request
+2018-04-22 10:06:08,322 INFO waiting for php-fpm, hhvm-fastcgi to die
+2018-04-22 10:06:08,346 INFO stopped: hhvm-fastcgi (terminated by SIGTERM)
+2018-04-22 10:06:08,359 INFO stopped: php-fpm (exit status 0)
+2018-04-22 10:06:14,844 CRIT Supervisor running as root (no user in config file)
+2018-04-22 10:06:14,846 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2018-04-22 10:06:14,883 INFO RPC interface 'supervisor' initialized
+2018-04-22 10:06:14,884 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-04-22 10:06:14,886 INFO supervisord started with pid 1
+2018-04-22 10:06:15,895 INFO spawned: 'nginx' with pid 7
+2018-04-22 10:06:15,978 INFO spawned: 'php-fpm' with pid 8
+2018-04-22 10:06:15,985 INFO spawned: 'hhvm-fastcgi' with pid 9
+2018-04-22 10:06:17,046 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 10:06:17,048 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 10:06:17,049 INFO success: hhvm-fastcgi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 10:12:24,409 WARN received SIGTERM indicating exit request
+2018-04-22 10:12:24,419 INFO waiting for nginx, php-fpm, hhvm-fastcgi to die
+2018-04-22 10:12:24,442 INFO stopped: hhvm-fastcgi (terminated by SIGTERM)
+2018-04-22 10:12:24,457 INFO stopped: php-fpm (exit status 0)
+2018-04-22 10:12:24,537 INFO stopped: nginx (exit status 0)
+2018-04-22 10:12:30,211 CRIT Supervisor running as root (no user in config file)
+2018-04-22 10:12:30,213 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2018-04-22 10:12:30,250 INFO RPC interface 'supervisor' initialized
+2018-04-22 10:12:30,251 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-04-22 10:12:30,252 INFO supervisord started with pid 1
+2018-04-22 10:12:31,261 INFO spawned: 'nginx' with pid 10
+2018-04-22 10:12:31,270 INFO spawned: 'php-fpm' with pid 11
+2018-04-22 10:12:31,281 INFO spawned: 'hhvm-fastcgi' with pid 12
+2018-04-22 10:12:32,347 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 10:12:32,350 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 10:12:32,351 INFO success: hhvm-fastcgi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 10:24:10,887 WARN received SIGTERM indicating exit request
+2018-04-22 10:24:10,890 INFO waiting for nginx, php-fpm, hhvm-fastcgi to die
+2018-04-22 10:24:10,926 INFO stopped: hhvm-fastcgi (terminated by SIGTERM)
+2018-04-22 10:24:10,938 INFO stopped: php-fpm (exit status 0)
+2018-04-22 10:24:11,027 INFO stopped: nginx (exit status 0)
+2018-04-22 10:24:16,573 CRIT Supervisor running as root (no user in config file)
+2018-04-22 10:24:16,575 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2018-04-22 10:24:16,651 INFO RPC interface 'supervisor' initialized
+2018-04-22 10:24:16,652 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-04-22 10:24:16,653 INFO supervisord started with pid 1
+2018-04-22 10:24:17,662 INFO spawned: 'nginx' with pid 7
+2018-04-22 10:24:17,670 INFO spawned: 'php-fpm' with pid 8
+2018-04-22 10:24:17,679 INFO spawned: 'hhvm-fastcgi' with pid 9
+2018-04-22 10:24:18,745 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 10:24:18,746 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 10:24:18,747 INFO success: hhvm-fastcgi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 10:27:34,371 WARN received SIGTERM indicating exit request
+2018-04-22 10:27:34,373 INFO waiting for nginx, php-fpm, hhvm-fastcgi to die
+2018-04-22 10:27:34,404 INFO stopped: hhvm-fastcgi (terminated by SIGTERM)
+2018-04-22 10:27:35,424 INFO stopped: php-fpm (exit status 0)
+2018-04-22 10:27:35,507 INFO stopped: nginx (exit status 0)
+2018-04-22 10:33:59,371 CRIT Supervisor running as root (no user in config file)
+2018-04-22 10:33:59,378 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2018-04-22 10:33:59,620 INFO RPC interface 'supervisor' initialized
+2018-04-22 10:33:59,622 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-04-22 10:33:59,627 INFO supervisord started with pid 1
+2018-04-22 10:34:00,657 INFO spawned: 'nginx' with pid 7
+2018-04-22 10:34:00,675 INFO spawned: 'php-fpm' with pid 8
+2018-04-22 10:34:00,730 INFO spawned: 'hhvm-fastcgi' with pid 9
+2018-04-22 10:34:01,922 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 10:34:01,923 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 10:34:01,924 INFO success: hhvm-fastcgi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 10:34:28,405 WARN received SIGTERM indicating exit request
+2018-04-22 10:34:28,409 INFO waiting for nginx, php-fpm, hhvm-fastcgi to die
+2018-04-22 10:34:28,433 INFO stopped: hhvm-fastcgi (terminated by SIGTERM)
+2018-04-22 10:34:29,446 INFO stopped: php-fpm (exit status 0)
+2018-04-22 10:34:29,528 INFO stopped: nginx (exit status 0)
+2018-04-22 10:34:34,995 CRIT Supervisor running as root (no user in config file)
+2018-04-22 10:34:34,997 INFO Included extra file "/etc/supervisor/conf.d/supervisord.conf" during parsing
+2018-04-22 10:34:35,033 INFO RPC interface 'supervisor' initialized
+2018-04-22 10:34:35,035 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2018-04-22 10:34:35,036 INFO supervisord started with pid 1
+2018-04-22 10:34:36,045 INFO spawned: 'nginx' with pid 7
+2018-04-22 10:34:36,052 INFO spawned: 'php-fpm' with pid 8
+2018-04-22 10:34:36,083 INFO spawned: 'hhvm-fastcgi' with pid 9
+2018-04-22 10:34:37,158 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 10:34:37,159 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 10:34:37,160 INFO success: hhvm-fastcgi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)

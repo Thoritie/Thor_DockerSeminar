@@ -14,11 +14,11 @@ var divStyle = {
 
 var tech = {
   paddingTop: 20,
-  width: 100
+  width: 200
 };
 
 var tech1 = {
-  width: 50
+  width: 100
 };
 
 
@@ -39,12 +39,7 @@ class App extends Component {
           <div className="hero-body">
    
               <div className="container has-text-centered">
-                {/* <h1 className="title">
-                    Title
-                </h1>
-                <h2 className="subtitle">
-                   Subtitle
-                </h2> */}
+               
 
                   <div class="columns is-mobile">
                     <div class="column"><img src="/react.png" style={tech1}/> </div>

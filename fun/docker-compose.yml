@@ -1,0 +1,17 @@
+front:
+  build: .
+  ports:
+    - "80:80"
+    - "443:443"
+    - "9000:9000"
+  links:
+    - mongo:mongo
+  volumes:
+    - ./www:/var/www
+    - ./sites:/etc/nginx/conf.d
+    - ./logs:/var/log/supervisor
+
+mongo:
+  image: mongo
+  ports:
+    - "27017:27017"
