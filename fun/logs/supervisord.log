@@ -191,3 +191,8 @@
 2018-04-22 10:34:37,158 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 2018-04-22 10:34:37,159 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
 2018-04-22 10:34:37,160 INFO success: hhvm-fastcgi entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2018-04-22 16:50:41,007 WARN received SIGTERM indicating exit request
+2018-04-22 16:50:41,014 INFO waiting for nginx, php-fpm, hhvm-fastcgi to die
+2018-04-22 16:50:41,108 INFO stopped: hhvm-fastcgi (terminated by SIGTERM)
+2018-04-22 16:50:41,156 INFO stopped: php-fpm (exit status 0)
+2018-04-22 16:50:41,246 INFO stopped: nginx (exit status 0)
