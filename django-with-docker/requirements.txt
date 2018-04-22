@@ -1,0 +1,3 @@
+Django
+uWSGI
+psycopg2==2.6.2
