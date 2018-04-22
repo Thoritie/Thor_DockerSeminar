@@ -1,0 +1,23 @@
+html,body {
+    /* font-family: 'Raleway', sans-serif; */
+    /* font-family: 'Black Han Sans', sans-serif; */
+    /* font-family: 'Black Han Sans', sans-serif; */
+font-family: 'Roboto Mono', monospace;
+/* font-family: 'Fredoka One', cursive; */
+/* font-family: 'Martel', serif; */
+
+    
+    font-size: 18px;
+    /* background: #222;
+    color: #aaa */
+  }
+  
+  h1,h2 {
+    font-weight: 900;
+    /* margin: 0.4em 0; */
+  }
+  h1 { font-size: 3.5em; }
+  h2 {
+    color: #fff;
+    font-size: 2em;
+  }
